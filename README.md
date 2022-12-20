@@ -1,5 +1,3 @@
-<p align="center" >
-
-<img width="30%" src=https://octodex.github.com/images/daftpunktocat-guy.gif />
-
-</p>
+<div align="center">
+    <img src="./img/custom.svg" width="400" height="400" alt="css-in-readme">
+</div>
