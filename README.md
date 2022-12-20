@@ -1,4 +1,4 @@
-<div align="center">
+<div >
      <img src="./img/custom.svg" width="10%">
      <img src="./img/custom.svg" width="20%">
      <img src="./img/custom.svg" width="10%">
