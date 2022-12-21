@@ -8,7 +8,7 @@
                 }
                 @keyframes t {
                     from {
-                        transform: rotate(0deg) scale(1);
+                        transform: rotate(0deg) scale(2);
                     }
                     to {
                         transform: rotate(359deg) scale(0.1);
